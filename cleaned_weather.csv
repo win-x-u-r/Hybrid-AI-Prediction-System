@@ -1,0 +1,1440 @@
+day_index,temperature,humidity,wind,weather_label
+0,24.9,31,4,Partly Cloudy
+1,27.9,22,1,Partly Cloudy
+2,25.6,28,2,Cloudy
+3,26.7,26,3,Partly Cloudy
+4,29.1,22,1,Partly Cloudy
+5,27.2,30,3,Partly Cloudy
+6,21,88,1,Rain
+7,18.2,93,1,Storm
+8,21,88,1,Rain
+9,18.2,93,1,Storm
+10,24.7,50,2,Partly Cloudy
+11,24.9,54,1,Cloudy
+12,29,30,2,Cloudy
+13,20.2,89,2,Storm
+14,16.6,57,2,Clear
+15,14.3,76,1,Partly Cloudy
+16,22.9,37,4,Partly Cloudy
+17,22.6,38,5,Partly Cloudy
+18,17.2,79,2,Cloudy
+19,17.6,85,2,Cloudy
+20,25.5,51,2,Partly Cloudy
+21,25.1,56,2,Partly Cloudy
+22,16.3,88,1,Clear
+23,15.6,93,2,Clear
+24,18.3,80,1,Clear
+25,16.8,91,2,Clear
+26,19.8,76,3,Clear
+27,17.5,95,2,Rain
+28,20.9,50,4,Partly Cloudy
+29,22.5,44,3,Clear
+30,26.7,43,3,Cloudy
+31,24.1,59,1,Partly Cloudy
+32,20.2,60,2,Clear
+33,22.3,74,2,Clear
+34,18.3,66,1,Partly Cloudy
+35,27.6,34,3,Partly Cloudy
+36,21.6,46,1,Clear
+37,28.1,37,2,Partly Cloudy
+38,25.2,33,2,Clear
+39,19.7,68,2,Clear
+40,19.2,61,1,Clear
+41,20.8,59,1,Partly Cloudy
+42,17.9,65,1,Clear
+43,20.1,63,1,Partly Cloudy
+44,20.8,75,1,Clear
+45,21.2,66,2,Cloudy
+46,25.7,48,1,Cloudy
+47,26.4,43,1,Partly Cloudy
+48,24.1,51,1,Partly Cloudy
+49,25.7,46,2,Partly Cloudy
+50,25.7,43,3,Clear
+51,27.2,49,3,Partly Cloudy
+52,26.8,46,3,Partly Cloudy
+53,19.5,43,1,Clear
+54,19.6,38,3,Clear
+55,21.2,38,2,Clear
+56,20.8,39,3,Clear
+57,21.2,61,4,Partly Cloudy
+58,22.9,39,3,Clear
+59,24.9,45,2,Clear
+60,24.9,46,3,Partly Cloudy
+61,24.3,44,2,Partly Cloudy
+62,21.7,52,2,Cloudy
+63,24,43,2,Partly Cloudy
+64,22.9,50,3,Partly Cloudy
+65,23,40,3,Partly Cloudy
+66,12.8,91,2,Cloudy
+67,16.9,93,3,Partly Cloudy
+68,7.8,97,1,Clear
+69,12.1,83,4,Cloudy
+70,15.7,96,2,Partly Cloudy
+71,12.5,86,1,Cloudy
+72,11.7,79,1,Partly Cloudy
+73,11.8,87,2,Cloudy
+74,6.6,94,1,Partly Cloudy
+75,7.9,90,2,Partly Cloudy
+76,14.9,94,3,Partly Cloudy
+77,7.5,91,1,Cloudy
+78,3,95,1,Clear
+79,7.4,81,1,Partly Cloudy
+80,8,83,2,Partly Cloudy
+81,8.4,88,2,Cloudy
+82,8.5,93,2,Cloudy
+83,7.1,88,2,Clear
+84,11.3,92,2,Cloudy
+85,9.3,93,1,Cloudy
+86,13.3,79,1,Cloudy
+87,13.8,75,1,Partly Cloudy
+88,12.5,89,1,Cloudy
+89,13.7,78,1,Partly Cloudy
+90,11.4,92,2,Cloudy
+91,13.8,68,2,Clear
+92,14.7,76,1,Cloudy
+93,15,73,2,Partly Cloudy
+94,14.3,69,1,Partly Cloudy
+95,13.9,68,1,Cloudy
+96,19.3,57,4,Clear
+97,19.7,48,2,Clear
+98,21.2,57,5,Partly Cloudy
+99,24.5,50,5,Cloudy
+100,24,46,5,Partly Cloudy
+101,20.2,38,1,Partly Cloudy
+102,20.6,44,2,Partly Cloudy
+103,16.8,90,2,Rain
+104,20.1,75,4,Rain
+105,23.1,55,4,Partly Cloudy
+106,19.7,58,4,Cloudy
+107,20.9,52,2,Partly Cloudy
+108,20.8,55,1,Partly Cloudy
+109,22,48,2,Partly Cloudy
+110,22,58,3,Partly Cloudy
+111,22.1,53,3,Partly Cloudy
+112,18.4,80,1,Cloudy
+113,19.8,55,1,Partly Cloudy
+114,14.2,93,1,Mist
+115,16.6,77,1,Clear
+116,15.3,86,1,Cloudy
+117,18.6,69,3,Cloudy
+118,17.3,70,1,Mist
+119,12.3,99,1,Fog
+120,16.7,66,2,Clear
+121,18.3,80,4,Partly Cloudy
+122,17.6,78,3,Clear
+123,18,68,2,Clear
+124,21.1,74,1,Clear
+125,21.6,66,2,Partly Cloudy
+126,18,67,1,Mist
+127,21,73,2,Partly Cloudy
+128,17.4,81,2,Partly Cloudy
+129,15.2,81,1,Partly Cloudy
+130,9.3,88,1,Partly Cloudy
+131,11.5,95,1,Partly Cloudy
+132,12.1,96,1,Fog
+133,6.3,90,1,Mist
+134,6,97,1,Partly Cloudy
+135,15.2,94,1,Storm
+136,16.7,88,3,Clear
+137,19.4,64,6,Partly Cloudy
+138,19.4,63,3,Partly Cloudy
+139,20,59,2,Cloudy
+140,15.8,96,2,Fog
+141,16.6,96,1,Mist
+142,23.1,46,2,Partly Cloudy
+143,21.3,46,4,Partly Cloudy
+144,20,56,1,Cloudy
+145,17.3,84,1,Cloudy
+146,19.9,75,3,Partly Cloudy
+147,19.3,71,2,Rain
+148,17.3,84,4,Rain
+149,17.8,59,4,Partly Cloudy
+150,17.5,79,4,Rain
+151,19.4,63,6,Cloudy
+152,19.5,74,3,Rain
+153,17.4,51,1,Partly Cloudy
+154,19.3,83,2,Cloudy
+155,21.7,56,4,Partly Cloudy
+156,21.8,47,6,Partly Cloudy
+157,12.7,71,8,Strong Wind
+158,24.7,33,5,Partly Cloudy
+159,22.4,45,2,Partly Cloudy
+160,14.4,59,1,Partly Cloudy
+161,15,54,1,Partly Cloudy
+162,14.5,53,4,Cloudy
+163,13.8,62,4,Cloudy
+164,11.1,77,5,Storm
+165,13.1,72,3,Partly Cloudy
+166,8.6,86,1,Clear
+167,7.6,97,1,Fog
+168,6.4,85,2,Clear
+169,2.9,96,1,Fog
+170,2,95,1,Partly Cloudy
+171,9.8,93,3,Cloudy
+172,16.3,60,1,Clear
+173,16.3,69,2,Partly Cloudy
+174,12.4,57,4,Clear
+175,13.7,68,2,Clear
+176,13,54,2,Clear
+177,12.2,69,1,Partly Cloudy
+178,16.7,82,1,Partly Cloudy
+179,14.4,60,2,Partly Cloudy
+180,14.1,59,2,Clear
+181,22.3,35,2,Clear
+182,20,47,2,Clear
+183,21.2,34,4,Clear
+184,22.6,33,6,Partly Cloudy
+185,23.6,25,4,Clear
+186,22.8,42,2,Clear
+187,22.9,38,3,Clear
+188,22.7,35,3,Clear
+189,22.4,35,2,Clear
+190,19.5,32,4,Clear
+191,19.5,31,7,Strong Wind
+192,23.7,52,2,Partly Cloudy
+193,23.4,43,4,Cloudy
+194,19.9,35,3,Clear
+195,22.5,39,2,Clear
+196,8.8,85,1,Clear
+197,2.7,98,1,Fog
+198,9.4,86,2,Clear
+199,5.9,89,1,Partly Cloudy
+200,6.8,86,2,Clear
+201,8.1,85,2,Partly Cloudy
+202,8.5,87,2,Clear
+203,9,92,1,Clear
+204,5.8,96,1,Clear
+205,5.9,91,1,Clear
+206,7.5,83,3,Clear
+207,2.7,93,1,Clear
+208,7.2,95,1,Mist
+209,9.5,83,2,Clear
+210,10.6,71,3,Clear
+211,3.9,96,1,Clear
+212,15.6,81,3,Partly Cloudy
+213,12.9,87,1,Cloudy
+214,14.8,83,2,Cloudy
+215,6.8,98,3,Fog
+216,9.8,92,1,Mist
+217,14.9,73,1,Partly Cloudy
+218,16.4,77,1,Cloudy
+219,11.4,95,1,Rain
+220,5.8,97,1,Fog
+221,7.3,95,1,Fog
+222,9,96,1,Cloudy
+223,5.7,93,1,Mist
+224,5.7,96,1,Mist
+225,2.3,96,1,Fog
+226,11.6,90,1,Storm
+227,9.1,95,1,Fog
+228,7.6,100,1,Clear
+229,9.2,92,1,Partly Cloudy
+230,9.4,88,3,Partly Cloudy
+231,6.4,95,1,Partly Cloudy
+232,15.8,81,1,Rain
+233,10,87,1,Partly Cloudy
+234,20.8,63,1,Clear
+235,26.2,35,1,Partly Cloudy
+236,23.2,58,1,Partly Cloudy
+237,25.1,35,2,Cloudy
+238,21.7,51,3,Cloudy
+239,18.9,61,3,Rain
+240,24.4,40,7,Strong Wind
+241,25.9,32,3,Partly Cloudy
+242,22.8,50,2,Partly Cloudy
+243,25.5,35,1,Partly Cloudy
+244,18.3,73,1,Cloudy
+245,20.7,62,1,Partly Cloudy
+246,18.3,80,1,Partly Cloudy
+247,16,87,1,Cloudy
+248,15.9,89,2,Rain
+249,22,57,1,Partly Cloudy
+250,21.4,51,3,Partly Cloudy
+251,22.4,41,3,Partly Cloudy
+252,16.6,71,4,Rain
+253,18.6,63,3,Rain
+254,19.2,61,3,Strong Wind
+255,20.5,56,2,Cloudy
+256,21.7,44,2,Partly Cloudy
+257,22.5,49,3,Partly Cloudy
+258,20.1,67,1,Partly Cloudy
+259,21.9,49,1,Clear
+260,19.9,72,2,Partly Cloudy
+261,17.9,68,1,Clear
+262,21,50,3,Clear
+263,21,49,2,Partly Cloudy
+264,17.7,63,3,Partly Cloudy
+265,17.7,76,4,Rain
+266,17.4,78,2,Rain
+267,19.3,59,4,Partly Cloudy
+268,20.7,46,1,Clear
+269,15.5,77,1,Clear
+270,11.4,99,1,Partly Cloudy
+271,13.4,88,1,Cloudy
+272,15.1,80,1,Clear
+273,15.1,85,1,Cloudy
+274,18.6,73,4,Partly Cloudy
+275,20.1,64,4,Partly Cloudy
+276,20.2,74,2,Cloudy
+277,19.7,67,3,Partly Cloudy
+278,19.1,61,2,Cloudy
+279,14.1,87,1,Partly Cloudy
+280,16.9,82,1,Partly Cloudy
+281,19.9,57,1,Cloudy
+282,14.9,77,3,Cloudy
+283,19.8,66,3,Partly Cloudy
+284,19.7,61,3,Partly Cloudy
+285,19.2,61,2,Cloudy
+286,18.9,59,2,Cloudy
+287,16.8,71,4,Cloudy
+288,14.8,95,1,Rain
+289,17.6,65,4,Partly Cloudy
+290,18.7,60,2,Partly Cloudy
+291,20.8,52,4,Cloudy
+292,17.1,74,1,Partly Cloudy
+293,17.3,71,2,Partly Cloudy
+294,17.5,67,1,Partly Cloudy
+295,18.5,61,2,Partly Cloudy
+296,15.6,68,2,Partly Cloudy
+297,19.1,67,1,Partly Cloudy
+298,12.5,92,2,Mist
+299,14.7,100,1,Rain
+300,14.9,79,1,Cloudy
+301,17.3,65,3,Cloudy
+302,18,68,2,Partly Cloudy
+303,19.4,61,1,Partly Cloudy
+304,17.8,64,1,Partly Cloudy
+305,12.7,94,1,Rain
+306,18.6,70,4,Partly Cloudy
+307,20.5,57,3,Cloudy
+308,18.5,57,4,Cloudy
+309,21.5,46,5,Cloudy
+310,22.9,33,3,Clear
+311,22.8,39,4,Cloudy
+312,19.8,54,4,Partly Cloudy
+313,20.9,42,3,Partly Cloudy
+314,22.1,49,2,Cloudy
+315,18.1,83,2,Cloudy
+316,18.1,73,5,Cloudy
+317,17.2,81,2,Cloudy
+318,21.6,55,1,Partly Cloudy
+319,16.1,71,1,Partly Cloudy
+320,17.7,70,1,Partly Cloudy
+321,16.1,88,4,Cloudy
+322,17.8,60,3,Cloudy
+323,17.1,73,2,Cloudy
+324,19.6,66,4,Partly Cloudy
+325,16.6,84,2,Cloudy
+326,15.3,63,1,Partly Cloudy
+327,10.4,88,1,Cloudy
+328,15,66,5,Partly Cloudy
+329,10.6,86,1,Clear
+330,13.4,70,1,Partly Cloudy
+331,4.2,98,1,Fog
+332,7.9,96,1,Fog
+333,7.4,95,1,Fog
+334,9.3,90,2,Clear
+335,15,63,3,Partly Cloudy
+336,3.4,100,1,Partly Cloudy
+337,13.9,81,1,Cloudy
+338,12.8,87,2,Cloudy
+339,14.2,75,2,Cloudy
+340,13.4,76,3,Cloudy
+341,18.4,68,7,Cloudy
+342,13.2,78,5,Rain
+343,11.4,71,6,Partly Cloudy
+344,16.9,59,5,Partly Cloudy
+345,14.1,66,7,Strong Wind
+346,15.7,75,2,Cloudy
+347,14.4,73,1,Cloudy
+348,12.8,88,2,Cloudy
+349,11.4,87,1,Partly Cloudy
+350,12.7,76,3,Cloudy
+351,18.1,42,4,Partly Cloudy
+352,14.7,82,2,Partly Cloudy
+353,16.6,73,6,Cloudy
+354,15.3,81,2,Rain
+355,14,84,3,Partly Cloudy
+356,10.7,95,1,Partly Cloudy
+357,12,85,1,Partly Cloudy
+358,9.1,82,2,Partly Cloudy
+359,7.7,88,2,Rain
+360,9.3,93,1,Partly Cloudy
+361,4.4,97,1,Fog
+362,13.2,85,2,Cloudy
+363,8.8,98,1,Fog
+364,9.8,97,1,Clear
+365,3,100,1,Clear
+366,4.2,99,1,Mist
+367,6.9,89,1,Partly Cloudy
+368,7.6,87,1,Partly Cloudy
+369,6,92,1,Partly Cloudy
+370,18.8,61,1,Partly Cloudy
+371,17.2,54,3,Cloudy
+372,19.5,42,2,Partly Cloudy
+373,20.9,54,1,Cloudy
+374,20.8,64,4,Cloudy
+375,20.7,65,1,Partly Cloudy
+376,19.4,53,2,Partly Cloudy
+377,18.3,52,1,Partly Cloudy
+378,16.3,55,2,Partly Cloudy
+379,25.1,41,1,Cloudy
+380,22.6,61,1,Cloudy
+381,21.7,39,2,Partly Cloudy
+382,17.1,48,3,Cloudy
+383,16.5,62,2,Cloudy
+384,16.9,51,2,Partly Cloudy
+385,17.2,53,2,Cloudy
+386,18.9,65,3,Cloudy
+387,16.2,68,4,Partly Cloudy
+388,17.3,54,2,Partly Cloudy
+389,16.4,57,4,Partly Cloudy
+390,18.7,45,4,Partly Cloudy
+391,17,63,4,Partly Cloudy
+392,14,94,2,Rain
+393,13.8,92,1,Rain
+394,14.5,94,3,Rain
+395,15,93,2,Rain
+396,13.3,96,3,Rain
+397,16,79,2,Cloudy
+398,14.1,92,1,Rain
+399,14.6,93,1,Rain
+400,12.9,88,1,Rain
+401,11.7,92,1,Rain
+402,11,99,1,Rain
+403,15.1,68,1,Partly Cloudy
+404,12.1,83,3,Cloudy
+405,12.9,78,1,Cloudy
+406,12.3,94,1,Rain
+407,15.8,66,1,Cloudy
+408,14.3,67,1,Cloudy
+409,21.4,43,2,Clear
+410,20,56,2,Partly Cloudy
+411,20.6,33,1,Partly Cloudy
+412,18.8,38,5,Cloudy
+413,19.6,44,4,Partly Cloudy
+414,20.8,41,2,Partly Cloudy
+415,12.9,97,1,Mist
+416,17.6,69,1,Partly Cloudy
+417,16.5,60,3,Cloudy
+418,16.6,57,2,Cloudy
+419,17,54,3,Partly Cloudy
+420,9.8,95,1,Clear
+421,2.9,99,1,Fog
+422,4.2,89,1,Clear
+423,3.3,95,2,Fog
+424,3,92,1,Mist
+425,4.8,97,1,Fog
+426,7.5,100,2,Mist
+427,8.6,95,2,Partly Cloudy
+428,9.9,97,2,Partly Cloudy
+429,21,60,1,Clear
+430,24.1,45,1,Clear
+431,20.6,65,1,Clear
+432,22,52,2,Clear
+433,20.1,55,1,Clear
+434,23.7,43,3,Clear
+435,22.6,55,2,Clear
+436,11.2,94,1,Partly Cloudy
+437,11.6,92,1,Partly Cloudy
+438,9.4,90,1,Cloudy
+439,10.9,95,1,Fog
+440,6.7,93,1,Mist
+441,10,97,1,Fog
+442,5.1,70,1,Mist
+443,6.6,95,1,Fog
+444,12.3,96,1,Clear
+445,6.8,97,2,Fog
+446,9.4,92,2,Mist
+447,6.1,94,1,Clear
+448,10.1,93,2,Fog
+449,12.5,80,2,Partly Cloudy
+450,9.1,97,1,Fog
+451,10.8,91,2,Cloudy
+452,1.3,96,1,Fog
+453,12.2,65,4,Cloudy
+454,9.4,95,1,Fog
+455,8.5,99,1,Partly Cloudy
+456,1.9,87,2,Partly Cloudy
+457,-2.2,97,1,Mist
+458,0.6,96,1,Fog
+459,7.1,96,1,Fog
+460,8.8,95,3,Fog
+461,8.5,100,1,Mist
+462,5.8,95,1,Mist
+463,4.1,99,2,Mist
+464,8.7,66,2,Partly Cloudy
+465,7.3,72,2,Cloudy
+466,9,68,1,Partly Cloudy
+467,15.3,55,2,Partly Cloudy
+468,15.4,51,1,Clear
+469,14.8,40,4,Partly Cloudy
+470,11.3,62,3,Partly Cloudy
+471,15.1,38,2,Clear
+472,15.3,41,2,Partly Cloudy
+473,1.9,97,1,Fog
+474,0.5,96,1,Fog
+475,3.8,88,1,Clear
+476,7,75,1,Cloudy
+477,5.2,92,1,Mist
+478,6.9,76,2,Cloudy
+479,7.7,91,2,Rain
+480,8.8,85,2,Cloudy
+481,5.4,92,1,Cloudy
+482,2.9,88,1,Clear
+483,8.3,75,2,Partly Cloudy
+484,8.4,75,1,Partly Cloudy
+485,9.1,65,2,Partly Cloudy
+486,10.1,66,2,Cloudy
+487,11.5,83,2,Cloudy
+488,11.1,76,4,Cloudy
+489,8.7,78,1,Partly Cloudy
+490,11.8,76,2,Partly Cloudy
+491,0.8,76,4,Fog
+492,4.5,56,4,Partly Cloudy
+493,8.5,54,2,Partly Cloudy
+494,8.4,66,2,Partly Cloudy
+495,7.1,71,4,Partly Cloudy
+496,4.8,83,1,Cloudy
+497,3.1,85,2,Cloudy
+498,3.9,42,2,Clear
+499,4.1,43,2,Partly Cloudy
+500,4.2,44,2,Partly Cloudy
+501,4.6,43,3,Partly Cloudy
+502,5.3,43,1,Partly Cloudy
+503,4.9,42,3,Partly Cloudy
+504,3,45,1,Clear
+505,-5.5,87,2,Partly Cloudy
+506,-1.4,71,3,Clear
+507,-2,75,2,Partly Cloudy
+508,-1.7,73,2,Cloudy
+509,-1.3,80,1,Cloudy
+510,-0.7,68,4,Partly Cloudy
+511,-0.5,71,2,Clear
+512,-0.5,69,2,Clear
+513,0.8,62,1,Clear
+514,-3.5,85,1,Partly Cloudy
+515,0.1,59,2,Partly Cloudy
+516,0.5,61,2,Clear
+517,3.5,48,3,Clear
+518,-0.2,63,1,Clear
+519,-0.8,57,1,Partly Cloudy
+520,-3.7,81,2,Partly Cloudy
+521,-5.4,84,1,Partly Cloudy
+522,-2.7,65,2,Partly Cloudy
+523,-7.1,98,1,Partly Cloudy
+524,-6.1,77,2,Cloudy
+525,-10.2,91,1,Clear
+526,-5.2,68,1,Clear
+527,5.5,40,1,Clear
+528,5.9,32,2,Partly Cloudy
+529,6.3,30,3,Partly Cloudy
+530,6.2,29,2,Partly Cloudy
+531,5.4,40,1,Cloudy
+532,6,28,3,Cloudy
+533,3.5,34,2,Clear
+534,5.7,29,2,Clear
+535,4,31,1,Clear
+536,-7.3,98,1,Mist
+537,-8.1,90,1,Clear
+538,-11.3,92,1,Clear
+539,-6.9,78,1,Partly Cloudy
+540,-2.6,86,1,Partly Cloudy
+541,-4.4,80,1,Partly Cloudy
+542,-3.1,78,1,Clear
+543,2.6,53,1,Cloudy
+544,-0.1,66,1,Cloudy
+545,-3.9,79,1,Clear
+546,-4.1,80,1,Clear
+547,-4.5,76,1,Partly Cloudy
+548,0.7,70,1,Cloudy
+549,4.2,53,3,Snow
+550,4.9,62,2,Cloudy
+551,5.7,37,2,Partly Cloudy
+552,5.1,41,2,Cloudy
+553,4.9,49,1,Cloudy
+554,4.6,46,3,Cloudy
+555,5.1,39,2,Cloudy
+556,5,37,2,Cloudy
+557,5.1,50,1,Cloudy
+558,5.3,33,1,Cloudy
+559,4.7,37,2,Cloudy
+560,4.5,39,4,Cloudy
+561,3.6,67,3,Cloudy
+562,3.8,65,5,Cloudy
+563,4.6,62,2,Snow
+564,3.7,43,5,Cloudy
+565,5.5,39,5,Cloudy
+566,6.5,30,3,Partly Cloudy
+567,6.3,30,4,Cloudy
+568,3.1,67,1,Cloudy
+569,4.3,52,1,Cloudy
+570,4.8,51,3,Partly Cloudy
+571,1.3,81,3,Snow
+572,3.8,58,3,Partly Cloudy
+573,2.7,77,1,Cloudy
+574,1,87,3,Snow
+575,-0.1,81,2,Mist
+576,-0.1,92,1,Snow
+577,2,74,1,Cloudy
+578,-0.2,84,1,Cloudy
+579,-1.1,90,1,Cloudy
+580,-2.8,94,1,Partly Cloudy
+581,-0.6,89,1,Cloudy
+582,-0.3,98,1,Snow
+583,1.7,94,2,Snow
+584,0.8,90,1,Cloudy
+585,1.9,75,1,Cloudy
+586,2.3,66,1,Cloudy
+587,2.4,68,1,Cloudy
+588,0.7,88,2,Snow
+589,0.8,94,3,Snow
+590,2.4,79,1,Cloudy
+591,3.2,94,1,Partly Cloudy
+592,3.4,90,1,Cloudy
+593,6.6,64,2,Rain
+594,4.8,92,2,Partly Cloudy
+595,23.7,23,4,Partly Cloudy
+596,23.9,22,2,Clear
+597,24,19,2,Clear
+598,23,28,3,Partly Cloudy
+599,24.6,18,2,Partly Cloudy
+600,24.7,18,3,Partly Cloudy
+601,23.2,15,1,Clear
+602,24.4,24,1,Partly Cloudy
+603,22.2,23,9,Strong Wind
+604,23,36,6,Cloudy
+605,23.9,30,4,Partly Cloudy
+606,24.3,28,6,Strong Wind
+607,27.7,13,6,Strong Wind
+608,27,15,7,Strong Wind
+609,26.8,14,4,Clear
+610,26.8,16,4,Clear
+611,22.7,18,1,Clear
+612,26.9,16,5,Strong Wind
+613,10.9,78,3,Partly Cloudy
+614,5.1,80,3,Cloudy
+615,3.6,79,2,Cloudy
+616,4.7,73,4,Cloudy
+617,10.5,92,3,Mist
+618,10.9,82,3,Cloudy
+619,4.6,77,1,Partly Cloudy
+620,10,82,1,Clear
+621,13.1,68,3,Cloudy
+622,12.4,54,1,Partly Cloudy
+623,11.9,49,2,Partly Cloudy
+624,11.2,74,3,Cloudy
+625,9.5,75,4,Cloudy
+626,1,88,3,Cloudy
+627,2,87,2,Cloudy
+628,7.1,78,1,Cloudy
+629,2.6,83,3,Cloudy
+630,14.7,62,2,Partly Cloudy
+631,6.6,79,2,Cloudy
+632,18.3,27,6,Strong Wind
+633,18.8,28,6,Partly Cloudy
+634,16.9,30,6,Strong Wind
+635,15.2,46,8,Strong Wind
+636,10.3,66,7,Strong Wind
+637,8,74,1,Rain
+638,17.7,25,7,Strong Wind
+639,14.1,55,6,Cloudy
+640,12,68,2,Rain
+641,14.7,50,6,Strong Wind
+642,14.5,52,4,Cloudy
+643,17.4,35,6,Strong Wind
+644,15.6,37,5,Cloudy
+645,14.6,46,4,Partly Cloudy
+646,13.8,47,4,Cloudy
+647,13.2,58,6,Cloudy
+648,14.7,46,5,Cloudy
+649,18.5,22,5,Strong Wind
+650,19,19,6,Strong Wind
+651,19.3,22,5,Strong Wind
+652,17.6,56,2,Cloudy
+653,19.7,32,5,Partly Cloudy
+654,5,83,5,Strong Wind
+655,4.4,91,3,Rain
+656,4.8,91,3,Rain
+657,17.1,32,6,Strong Wind
+658,5.7,86,4,Strong Wind
+659,15.4,46,6,Cloudy
+660,17.9,27,3,Cloudy
+661,1.8,80,2,Cloudy
+662,3.3,51,5,Cloudy
+663,3.8,47,3,Partly Cloudy
+664,5.4,44,6,Partly Cloudy
+665,1.3,87,4,Snow
+666,0.8,92,2,Snow
+667,4,67,4,Cloudy
+668,1.3,57,4,Cloudy
+669,0.3,80,1,Snow
+670,3.7,66,6,Cloudy
+671,-1.2,42,3,Cloudy
+672,2,47,1,Partly Cloudy
+673,2.6,32,2,Cloudy
+674,2.9,34,3,Cloudy
+675,5.7,30,5,Strong Wind
+676,2.9,74,5,Partly Cloudy
+677,19.5,39,3,Clear
+678,23.1,30,5,Cloudy
+679,25.5,17,8,Strong Wind
+680,26.3,17,9,Strong Wind
+681,14.9,16,1,Cloudy
+682,15.5,57,3,Cloudy
+683,6.3,78,2,Cloudy
+684,9,58,1,Cloudy
+685,11.7,63,2,Cloudy
+686,9.7,53,3,Cloudy
+687,6.5,69,3,Partly Cloudy
+688,19.9,39,5,Strong Wind
+689,17.4,50,3,Cloudy
+690,8.2,86,2,Rain
+691,7,91,3,Rain
+692,22.4,13,5,Strong Wind
+693,4.7,49,3,Cloudy
+694,8.4,55,5,Partly Cloudy
+695,9.6,49,7,Strong Wind
+696,9,48,5,Strong Wind
+697,7.2,61,3,Partly Cloudy
+698,8.6,52,5,Strong Wind
+699,8.5,47,3,Partly Cloudy
+700,11.7,81,2,Cloudy
+701,6.4,40,3,Cloudy
+702,8.1,56,5,Partly Cloudy
+703,17.5,32,9,Strong Wind
+704,19.6,31,11,Strong Wind
+705,16.5,34,9,Strong Wind
+706,15.3,27,8,Strong Wind
+707,16.8,35,9,Strong Wind
+708,21.1,22,7,Strong Wind
+709,17,33,11,Strong Wind
+710,17,40,5,Cloudy
+711,18.5,24,10,Strong Wind
+712,17.4,22,8,Cloudy
+713,18.1,29,8,Strong Wind
+714,19.2,28,9,Strong Wind
+715,6.9,56,5,Snow
+716,9.5,33,6,Strong Wind
+717,6.6,50,4,Strong Wind
+718,10.4,24,3,Partly Cloudy
+719,9.8,25,5,Partly Cloudy
+720,13.8,25,4,Strong Wind
+721,10.3,37,6,Strong Wind
+722,9.8,35,4,Strong Wind
+723,10.7,29,6,Strong Wind
+724,4.1,76,6,Strong Wind
+725,5.5,58,6,Strong Wind
+726,10.7,34,6,Strong Wind
+727,14.9,20,3,Partly Cloudy
+728,17.1,21,5,Partly Cloudy
+729,15.6,20,5,Cloudy
+730,15.4,25,4,Cloudy
+731,18.3,21,7,Strong Wind
+732,15.5,26,7,Strong Wind
+733,20.5,22,3,Cloudy
+734,17.6,19,5,Strong Wind
+735,16.9,26,3,Partly Cloudy
+736,15.3,19,4,Partly Cloudy
+737,14.1,21,3,Partly Cloudy
+738,13.5,22,4,Partly Cloudy
+739,16.6,20,3,Cloudy
+740,16.6,90,3,Cloudy
+741,15.2,91,2,Cloudy
+742,16.4,75,4,Cloudy
+743,21.9,53,6,Strong Wind
+744,22.8,43,8,Strong Wind
+745,21.2,61,5,Cloudy
+746,21.3,64,8,Strong Wind
+747,17.6,80,2,Cloudy
+748,14.5,79,2,Rain
+749,16.7,52,3,Rain
+750,21.8,27,4,Cloudy
+751,18.5,81,3,Cloudy
+752,11,84,4,Partly Cloudy
+753,8.4,84,1,Partly Cloudy
+754,9.7,83,1,Partly Cloudy
+755,11.6,64,2,Partly Cloudy
+756,15.6,58,1,Clear
+757,10.6,79,1,Clear
+758,14.6,86,3,Cloudy
+759,16.6,74,2,Cloudy
+760,16.4,76,3,Cloudy
+761,15.6,79,4,Cloudy
+762,26,41,2,Cloudy
+763,28.5,25,2,Cloudy
+764,26.5,35,3,Cloudy
+765,26.5,33,3,Partly Cloudy
+766,23.9,42,4,Cloudy
+767,26.4,25,3,Partly Cloudy
+768,23.3,21,1,Partly Cloudy
+769,12.8,93,1,Cloudy
+770,8.9,78,1,Cloudy
+771,13.5,94,2,Mist
+772,16.1,78,2,Partly Cloudy
+773,11.2,88,1,Cloudy
+774,14.9,84,1,Cloudy
+775,11,78,3,Partly Cloudy
+776,6.5,79,1,Clear
+777,10.9,80,1,Rain
+778,8.8,48,2,Cloudy
+779,14.3,94,5,Cloudy
+780,14.7,95,2,Mist
+781,11.8,78,3,Clear
+782,5.3,58,3,Partly Cloudy
+783,1.3,68,3,Clear
+784,8.1,80,2,Clear
+785,8.9,89,1,Clear
+786,15.2,80,1,Cloudy
+787,15.5,68,2,Rain
+788,-0.8,79,1,Clear
+789,1.1,63,2,Clear
+790,8.1,17,4,Partly Cloudy
+791,11.2,27,2,Partly Cloudy
+792,8.3,38,3,Partly Cloudy
+793,10,30,2,Partly Cloudy
+794,11.1,18,4,Clear
+795,12,19,4,Clear
+796,6.6,21,3,Partly Cloudy
+797,7,30,3,Strong Wind
+798,7,21,4,Partly Cloudy
+799,12.4,23,4,Partly Cloudy
+800,11.3,22,5,Partly Cloudy
+801,9.3,28,3,Partly Cloudy
+802,11.4,22,2,Clear
+803,10.5,31,3,Cloudy
+804,12.5,26,6,Cloudy
+805,11.5,20,4,Partly Cloudy
+806,10.9,17,2,Partly Cloudy
+807,6,72,2,Partly Cloudy
+808,3.1,54,1,Clear
+809,2.8,68,1,Clear
+810,2.2,56,1,Clear
+811,-2.6,68,1,Clear
+812,0.7,48,5,Clear
+813,6.4,37,6,Strong Wind
+814,4.9,82,3,Cloudy
+815,5,79,1,Cloudy
+816,3.7,58,2,Cloudy
+817,15.5,56,2,Rain
+818,17,42,6,Cloudy
+819,22.5,22,3,Strong Wind
+820,21.8,26,5,Partly Cloudy
+821,18.8,34,6,Strong Wind
+822,18.7,17,3,Partly Cloudy
+823,17,16,2,Clear
+824,4,80,4,Cloudy
+825,8.5,66,2,Cloudy
+826,12,70,2,Cloudy
+827,8.5,78,3,Partly Cloudy
+828,8.7,92,4,Mist
+829,17.8,45,2,Cloudy
+830,19.7,27,5,Partly Cloudy
+831,18.8,37,2,Partly Cloudy
+832,9.8,44,1,Cloudy
+833,6.6,86,3,Cloudy
+834,19.2,33,5,Cloudy
+835,21.8,26,6,Strong Wind
+836,21.8,27,4,Partly Cloudy
+837,19.1,40,2,Cloudy
+838,20.7,31,3,Cloudy
+839,19.2,35,2,Cloudy
+840,21.5,33,5,Cloudy
+841,11.9,46,1,Clear
+842,11.8,44,2,Clear
+843,19.1,37,3,Cloudy
+844,21.1,34,2,Partly Cloudy
+845,32.6,15,7,Strong Wind
+846,30.1,17,5,Partly Cloudy
+847,29.8,17,6,Strong Wind
+848,29.6,17,8,Strong Wind
+849,30.3,17,5,Strong Wind
+850,31.1,15,10,Strong Wind
+851,31,13,10,Strong Wind
+852,31.3,14,9,Strong Wind
+853,30.9,12,9,Strong Wind
+854,32,15,2,Partly Cloudy
+855,32.5,12,7,Strong Wind
+856,32.9,13,6,Strong Wind
+857,32.1,11,9,Strong Wind
+858,30.9,17,3,Partly Cloudy
+859,31,9,4,Partly Cloudy
+860,28.4,12,2,Partly Cloudy
+861,10.9,80,4,Cloudy
+862,32.1,11,6,Strong Wind
+863,20.5,45,2,Cloudy
+864,22.4,41,7,Strong Wind
+865,17.6,78,6,Strong Wind
+866,20,49,7,Partly Cloudy
+867,19.2,52,5,Cloudy
+868,11.2,89,4,Cloudy
+869,8.4,78,1,Rain
+870,6.7,75,3,Cloudy
+871,8.4,69,4,Partly Cloudy
+872,12.6,80,3,Cloudy
+873,17,68,5,Partly Cloudy
+874,19.1,64,2,Cloudy
+875,15,92,2,Partly Cloudy
+876,19.7,60,4,Partly Cloudy
+877,17.4,69,1,Cloudy
+878,15.1,87,4,Partly Cloudy
+879,14.6,93,1,Storm
+880,15.3,88,1,Rain
+881,16,86,4,Storm
+882,19.7,52,2,Cloudy
+883,14.1,74,1,Partly Cloudy
+884,17.6,72,2,Storm
+885,19.6,59,6,Strong Wind
+886,15.2,83,3,Storm
+887,18,67,2,Partly Cloudy
+888,15.2,77,1,Partly Cloudy
+889,14.6,62,1,Partly Cloudy
+890,17.8,46,2,Partly Cloudy
+891,16.9,82,3,Storm
+892,11.5,48,2,Partly Cloudy
+893,14.3,49,3,Clear
+894,12.6,47,2,Clear
+895,9.7,57,2,Partly Cloudy
+896,14.1,47,5,Partly Cloudy
+897,14.2,41,3,Clear
+898,9.4,80,2,Rain
+899,7.4,73,1,Partly Cloudy
+900,7.1,57,5,Strong Wind
+901,10.2,50,3,Clear
+902,14.7,32,3,Clear
+903,11,44,3,Clear
+904,12.3,45,3,Clear
+905,14,37,2,Clear
+906,11.9,41,1,Partly Cloudy
+907,7.8,66,1,Partly Cloudy
+908,10.4,50,1,Clear
+909,10.6,95,1,Fog
+910,14,68,2,Cloudy
+911,14.6,66,5,Partly Cloudy
+912,6.6,93,2,Rain
+913,12.1,47,2,Clear
+914,10.4,47,4,Partly Cloudy
+915,12.8,39,2,Partly Cloudy
+916,13.4,39,4,Cloudy
+917,13.1,36,4,Partly Cloudy
+918,15.5,35,2,Partly Cloudy
+919,14.8,30,5,Partly Cloudy
+920,11.1,46,4,Partly Cloudy
+921,12.5,42,2,Partly Cloudy
+922,12.5,32,3,Clear
+923,13.8,27,3,Clear
+924,15.3,22,3,Clear
+925,15.4,26,6,Strong Wind
+926,19.2,18,5,Clear
+927,18.7,21,4,Clear
+928,18.5,19,3,Clear
+929,17.2,36,5,Partly Cloudy
+930,14.1,31,4,Partly Cloudy
+931,13.6,32,4,Partly Cloudy
+932,22.2,25,2,Partly Cloudy
+933,20.8,19,6,Partly Cloudy
+934,16.1,36,4,Partly Cloudy
+935,11,54,2,Clear
+936,12.2,60,3,Clear
+937,13,50,2,Clear
+938,11.8,53,1,Clear
+939,12.9,42,3,Clear
+940,13.3,39,3,Clear
+941,13,41,4,Partly Cloudy
+942,14.3,33,7,Strong Wind
+943,15,31,5,Partly Cloudy
+944,15.3,33,5,Clear
+945,14.3,39,5,Clear
+946,13,48,5,Clear
+947,14.6,42,4,Clear
+948,14.2,41,3,Clear
+949,15.1,38,4,Clear
+950,13.5,47,1,Clear
+951,11.1,50,2,Clear
+952,10.1,42,2,Partly Cloudy
+953,13.7,49,1,Clear
+954,13.7,42,1,Clear
+955,12.2,48,2,Clear
+956,17.2,46,2,Partly Cloudy
+957,20.2,35,2,Partly Cloudy
+958,17.1,46,2,Cloudy
+959,20,34,2,Partly Cloudy
+960,19.7,31,3,Partly Cloudy
+961,17.9,41,4,Cloudy
+962,18.8,35,5,Cloudy
+963,16.3,46,2,Cloudy
+964,16.3,52,4,Cloudy
+965,18.6,36,3,Partly Cloudy
+966,17.1,44,4,Partly Cloudy
+967,21.2,33,4,Partly Cloudy
+968,19.7,42,2,Clear
+969,18.9,40,1,Clear
+970,17.7,36,2,Partly Cloudy
+971,17.3,38,1,Partly Cloudy
+972,19.9,41,3,Clear
+973,15.9,33,1,Clear
+974,18,47,2,Partly Cloudy
+975,19.9,54,1,Partly Cloudy
+976,19.3,57,1,Clear
+977,22.8,49,2,Partly Cloudy
+978,16.4,72,1,Partly Cloudy
+979,21.7,47,3,Partly Cloudy
+980,22.2,40,2,Partly Cloudy
+981,18.1,69,1,Partly Cloudy
+982,19.7,58,9,Strong Wind
+983,13.8,93,4,Rain
+984,15.2,83,3,Cloudy
+985,21.8,40,2,Partly Cloudy
+986,21.1,45,3,Partly Cloudy
+987,21.7,46,5,Partly Cloudy
+988,20.5,50,2,Partly Cloudy
+989,19.5,54,1,Partly Cloudy
+990,18,44,2,Partly Cloudy
+991,19.1,59,1,Partly Cloudy
+992,18.9,72,2,Rain
+993,16.7,90,3,Rain
+994,19.5,85,3,Rain
+995,20.7,67,5,Partly Cloudy
+996,20.6,68,6,Cloudy
+997,20.7,63,4,Cloudy
+998,15.6,93,2,Rain
+999,16.7,91,2,Cloudy
+1000,21.2,58,6,Strong Wind
+1001,21.8,54,6,Strong Wind
+1002,23.6,54,6,Cloudy
+1003,23.2,54,4,Cloudy
+1004,22.7,60,2,Cloudy
+1005,22.4,59,5,Cloudy
+1006,19.4,72,2,Cloudy
+1007,18.8,72,3,Cloudy
+1008,19.4,72,3,Cloudy
+1009,20.9,69,1,Rain
+1010,20.1,70,1,Cloudy
+1011,21.1,61,1,Cloudy
+1012,20,67,2,Rain
+1013,23,49,5,Cloudy
+1014,21,60,3,Rain
+1015,14.4,81,1,Rain
+1016,19,80,4,Cloudy
+1017,6.9,85,6,Strong Wind
+1018,10.6,67,7,Strong Wind
+1019,12,82,3,Rain
+1020,14.4,70,6,Strong Wind
+1021,15.9,71,5,Cloudy
+1022,14.1,74,3,Partly Cloudy
+1023,18.7,51,5,Partly Cloudy
+1024,16.4,43,5,Cloudy
+1025,15,46,1,Partly Cloudy
+1026,16,49,6,Strong Wind
+1027,12.1,71,3,Rain
+1028,13.7,58,4,Cloudy
+1029,9,73,2,Cloudy
+1030,8.7,95,1,Mist
+1031,13,62,2,Partly Cloudy
+1032,1,96,1,Fog
+1033,16.5,45,1,Clear
+1034,16.5,44,2,Clear
+1035,13.5,48,3,Cloudy
+1036,7.7,74,2,Clear
+1037,7.2,77,1,Clear
+1038,13.9,55,3,Partly Cloudy
+1039,13.5,47,3,Clear
+1040,13.1,59,2,Clear
+1041,12.2,51,2,Clear
+1042,11.9,65,2,Clear
+1043,11.5,54,1,Clear
+1044,11.4,53,2,Clear
+1045,11,47,3,Clear
+1046,10.3,66,1,Clear
+1047,13.5,62,2,Partly Cloudy
+1048,15.2,49,5,Partly Cloudy
+1049,12.1,65,1,Clear
+1050,26.1,37,2,Partly Cloudy
+1051,25.3,33,1,Partly Cloudy
+1052,22.5,33,3,Partly Cloudy
+1053,20.3,23,4,Partly Cloudy
+1054,22.3,30,6,Partly Cloudy
+1055,25.2,33,3,Partly Cloudy
+1056,27.6,24,2,Partly Cloudy
+1057,26.1,30,1,Partly Cloudy
+1058,24.6,46,2,Partly Cloudy
+1059,25.8,30,1,Clear
+1060,25.7,24,1,Clear
+1061,25.3,26,1,Partly Cloudy
+1062,23.7,24,2,Partly Cloudy
+1063,25.1,26,2,Clear
+1064,22.4,29,2,Clear
+1065,25,24,2,Partly Cloudy
+1066,23.6,31,2,Partly Cloudy
+1067,17.6,32,2,Cloudy
+1068,25.2,23,1,Partly Cloudy
+1069,25,32,2,Partly Cloudy
+1070,22.2,56,5,Cloudy
+1071,19.7,75,3,Rain
+1072,22.5,58,3,Cloudy
+1073,16.3,69,3,Cloudy
+1074,12.8,86,2,Rain
+1075,20.3,32,2,Cloudy
+1076,16.3,63,6,Cloudy
+1077,18.5,55,5,Cloudy
+1078,17.9,47,3,Rain
+1079,20.7,44,5,Cloudy
+1080,17.4,85,1,Rain
+1081,17.8,80,1,Rain
+1082,21.1,53,6,Strong Wind
+1083,22,53,5,Strong Wind
+1084,23.9,45,6,Cloudy
+1085,22.6,38,4,Partly Cloudy
+1086,26.5,34,4,Cloudy
+1087,27.6,18,1,Cloudy
+1088,27.2,32,1,Cloudy
+1089,24.2,40,2,Cloudy
+1090,17.7,67,3,Cloudy
+1091,20.1,43,6,Strong Wind
+1092,18.9,47,6,Strong Wind
+1093,11.9,73,4,Cloudy
+1094,18.3,30,3,Cloudy
+1095,18.3,44,1,Partly Cloudy
+1096,19.1,32,2,Cloudy
+1097,17.2,52,1,Rain
+1098,17.4,50,3,Rain
+1099,26.1,27,1,Partly Cloudy
+1100,19.2,66,1,Rain
+1101,16.6,95,1,Rain
+1102,21.1,47,2,Cloudy
+1103,19.3,36,1,Cloudy
+1104,19.6,56,2,Cloudy
+1105,21.6,42,3,Cloudy
+1106,21,47,3,Cloudy
+1107,20.3,57,2,Cloudy
+1108,23,40,6,Partly Cloudy
+1109,22.7,41,4,Partly Cloudy
+1110,19.7,52,2,Partly Cloudy
+1111,22,39,4,Cloudy
+1112,20.1,54,2,Partly Cloudy
+1113,13,82,1,Fog
+1114,14.5,78,3,Cloudy
+1115,19.6,51,3,Cloudy
+1116,20.3,43,3,Partly Cloudy
+1117,18.1,63,2,Partly Cloudy
+1118,24,31,2,Partly Cloudy
+1119,19.2,37,1,Cloudy
+1120,19.2,39,2,Cloudy
+1121,12.5,90,1,Storm
+1122,12.7,96,1,Rain
+1123,18.8,50,3,Partly Cloudy
+1124,18.8,46,3,Cloudy
+1125,21.2,30,2,Cloudy
+1126,19,62,1,Partly Cloudy
+1127,19,54,1,Partly Cloudy
+1128,21.7,47,2,Partly Cloudy
+1129,19.2,34,1,Cloudy
+1130,16.2,84,5,Rain
+1131,15.9,84,1,Partly Cloudy
+1132,16.5,74,4,Cloudy
+1133,15.7,78,2,Cloudy
+1134,15.4,80,3,Rain
+1135,15.1,63,4,Cloudy
+1136,13,63,3,Partly Cloudy
+1137,14.5,68,1,Cloudy
+1138,14.7,87,3,Cloudy
+1139,14.1,85,1,Rain
+1140,13,88,1,Cloudy
+1141,14.1,87,2,Cloudy
+1142,13.1,79,1,Cloudy
+1143,13.9,78,1,Rain
+1144,10.8,95,1,Cloudy
+1145,13.2,78,3,Cloudy
+1146,13.9,79,2,Cloudy
+1147,13.6,84,1,Cloudy
+1148,12.4,85,2,Clear
+1149,15.5,80,2,Cloudy
+1150,29.9,28,1,Cloudy
+1151,29.9,28,1,Cloudy
+1152,29.9,28,1,Cloudy
+1153,30.8,28,2,Partly Cloudy
+1154,30.8,28,2,Partly Cloudy
+1155,26.5,44,3,Clear
+1156,28.1,47,1,Partly Cloudy
+1157,21.5,76,2,Partly Cloudy
+1158,20.1,78,1,Partly Cloudy
+1159,20,80,7,Strong Wind
+1160,25,59,2,Cloudy
+1161,21.6,56,2,Clear
+1162,23.4,52,3,Cloudy
+1163,22,64,2,Cloudy
+1164,19.9,78,3,Cloudy
+1165,20.3,73,2,Rain
+1166,20.5,72,3,Cloudy
+1167,25.2,45,1,Partly Cloudy
+1168,23.3,57,3,Partly Cloudy
+1169,27.5,58,1,Partly Cloudy
+1170,26.3,47,1,Clear
+1171,25.7,58,1,Clear
+1172,25.4,55,1,Partly Cloudy
+1173,24,52,2,Partly Cloudy
+1174,24.5,59,3,Cloudy
+1175,26,46,4,Partly Cloudy
+1176,22.1,69,2,Rain
+1177,21.8,76,4,Cloudy
+1178,23.5,65,2,Cloudy
+1179,24.8,59,2,Cloudy
+1180,19.3,96,3,Rain
+1181,18.4,96,2,Cloudy
+1182,18.2,91,3,Rain
+1183,23.5,47,4,Cloudy
+1184,19,82,4,Cloudy
+1185,16.5,90,4,Fog
+1186,19,86,1,Cloudy
+1187,19.8,79,3,Cloudy
+1188,17.1,96,1,Fog
+1189,20.6,77,3,Partly Cloudy
+1190,19.7,85,1,Cloudy
+1191,18.4,86,2,Clear
+1192,24.5,56,3,Cloudy
+1193,22.4,68,4,Cloudy
+1194,30.2,33,4,Partly Cloudy
+1195,28.3,39,2,Cloudy
+1196,28.1,39,2,Cloudy
+1197,18.2,76,1,Partly Cloudy
+1198,19.1,91,1,Mist
+1199,18.8,82,3,Rain
+1200,19.8,62,2,Partly Cloudy
+1201,12.4,97,1,Fog
+1202,26.9,46,3,Cloudy
+1203,11.7,98,1,Fog
+1204,25.5,40,5,Partly Cloudy
+1205,24.2,48,5,Cloudy
+1206,14.7,65,3,Cloudy
+1207,22,49,3,Clear
+1208,23,32,1,Partly Cloudy
+1209,22.8,45,3,Cloudy
+1210,22.7,29,2,Partly Cloudy
+1211,11.5,92,1,Partly Cloudy
+1212,17,65,3,Partly Cloudy
+1213,14.2,73,1,Partly Cloudy
+1214,14.1,78,1,Cloudy
+1215,11.8,77,3,Partly Cloudy
+1216,11.8,81,1,Partly Cloudy
+1217,12.9,81,1,Cloudy
+1218,14.5,73,2,Cloudy
+1219,12.3,79,2,Partly Cloudy
+1220,14.3,70,2,Partly Cloudy
+1221,13.5,89,1,Cloudy
+1222,14.9,76,2,Cloudy
+1223,13.8,73,2,Partly Cloudy
+1224,14,66,1,Cloudy
+1225,13.9,81,1,Cloudy
+1226,13.2,86,2,Cloudy
+1227,13.2,82,1,Partly Cloudy
+1228,21.7,47,2,Partly Cloudy
+1229,20.7,46,1,Partly Cloudy
+1230,20,39,3,Partly Cloudy
+1231,19.6,44,4,Partly Cloudy
+1232,19,62,4,Partly Cloudy
+1233,16.6,77,3,Cloudy
+1234,14.3,90,1,Cloudy
+1235,14.1,91,1,Rain
+1236,13.3,86,2,Storm
+1237,16.7,57,3,Partly Cloudy
+1238,19.5,46,4,Storm
+1239,19.1,52,1,Rain
+1240,24.3,14,4,Partly Cloudy
+1241,17.4,43,3,Partly Cloudy
+1242,18.2,47,2,Partly Cloudy
+1243,17.2,46,3,Partly Cloudy
+1244,14.1,60,3,Cloudy
+1245,11.9,84,1,Storm
+1246,16.1,85,2,Cloudy
+1247,19.7,43,2,Partly Cloudy
+1248,13,78,2,Partly Cloudy
+1249,14.9,67,3,Cloudy
+1250,13.7,72,2,Cloudy
+1251,15.7,66,3,Cloudy
+1252,16.2,59,5,Partly Cloudy
+1253,14.7,71,1,Partly Cloudy
+1254,13.5,76,1,Cloudy
+1255,11.2,75,1,Cloudy
+1256,11.3,74,3,Cloudy
+1257,14.5,54,1,Partly Cloudy
+1258,16.7,67,5,Partly Cloudy
+1259,16.8,64,4,Clear
+1260,16.8,61,4,Strong Wind
+1261,15.9,65,3,Partly Cloudy
+1262,12.1,71,3,Cloudy
+1263,11.1,83,2,Cloudy
+1264,14.9,77,3,Clear
+1265,7.7,88,1,Clear
+1266,11.4,85,2,Cloudy
+1267,10.1,84,3,Partly Cloudy
+1268,8.6,92,2,Clear
+1269,12.4,80,2,Clear
+1270,10.7,76,3,Clear
+1271,15.3,56,3,Cloudy
+1272,13.3,70,3,Cloudy
+1273,6.9,83,2,Partly Cloudy
+1274,6.7,89,3,Clear
+1275,7,99,1,Clear
+1276,9.2,84,1,Partly Cloudy
+1277,11.8,78,2,Partly Cloudy
+1278,14.4,73,3,Cloudy
+1279,12.6,81,1,Clear
+1280,16.7,44,2,Partly Cloudy
+1281,16.4,49,3,Cloudy
+1282,16.2,43,3,Cloudy
+1283,13.4,52,2,Cloudy
+1284,9.5,84,3,Cloudy
+1285,13.8,53,4,Cloudy
+1286,19.3,39,3,Partly Cloudy
+1287,21.9,43,4,Clear
+1288,18.2,50,3,Partly Cloudy
+1289,17.6,43,3,Cloudy
+1290,14.1,52,4,Partly Cloudy
+1291,14.8,46,3,Partly Cloudy
+1292,23.1,28,2,Clear
+1293,10.6,61,3,Cloudy
+1294,11.8,52,3,Cloudy
+1295,11.7,72,1,Cloudy
+1296,11.7,64,2,Cloudy
+1297,12,56,2,Cloudy
+1298,12.6,54,2,Cloudy
+1299,18.5,48,2,Partly Cloudy
+1300,19.5,37,1,Partly Cloudy
+1301,15.9,47,3,Partly Cloudy
+1302,14.4,59,2,Partly Cloudy
+1303,14.2,41,5,Partly Cloudy
+1304,10.8,64,3,Cloudy
+1305,10,74,5,Cloudy
+1306,16.8,40,5,Partly Cloudy
+1307,18.5,36,4,Clear
+1308,16.8,47,3,Partly Cloudy
+1309,17,41,2,Clear
+1310,10.3,56,2,Cloudy
+1311,9.6,59,4,Partly Cloudy
+1312,20.4,36,1,Cloudy
+1313,11,57,2,Partly Cloudy
+1314,11.6,55,2,Partly Cloudy
+1315,10.6,59,1,Cloudy
+1316,9.8,54,3,Cloudy
+1317,6.6,64,1,Cloudy
+1318,16.9,45,2,Clear
+1319,11.5,51,1,Partly Cloudy
+1320,8.8,76,2,Rain
+1321,9.4,72,4,Cloudy
+1322,9,75,2,Cloudy
+1323,8.6,68,3,Cloudy
+1324,10.1,62,3,Cloudy
+1325,9.3,74,5,Rain
+1326,10.7,87,3,Cloudy
+1327,9,86,2,Cloudy
+1328,10.8,68,2,Cloudy
+1329,11.8,48,1,Cloudy
+1330,11.6,56,4,Partly Cloudy
+1331,13.6,77,1,Cloudy
+1332,10,76,2,Cloudy
+1333,10.5,73,1,Cloudy
+1334,12.4,58,1,Cloudy
+1335,13.7,47,2,Partly Cloudy
+1336,12.6,55,2,Partly Cloudy
+1337,9.6,60,2,Partly Cloudy
+1338,10.3,56,1,Partly Cloudy
+1339,8.7,92,2,Rain
+1340,9.9,55,2,Cloudy
+1341,5.2,91,2,Cloudy
+1342,5.9,91,2,Cloudy
+1343,1.4,94,2,Partly Cloudy
+1344,0.8,94,1,Partly Cloudy
+1345,4.3,97,1,Cloudy
+1346,3.8,90,1,Cloudy
+1347,3.9,93,1,Cloudy
+1348,5.1,92,2,Cloudy
+1349,6.2,86,2,Cloudy
+1350,6.4,86,1,Cloudy
+1351,3.9,87,2,Partly Cloudy
+1352,4.7,92,1,Cloudy
+1353,3.1,92,3,Cloudy
+1354,-1.7,96,2,Partly Cloudy
+1355,-3.6,99,1,Partly Cloudy
+1356,0.7,99,3,Cloudy
+1357,1.2,95,3,Partly Cloudy
+1358,2.3,94,1,Cloudy
+1359,0.5,96,1,Clear
+1360,10.4,88,1,Rain
+1361,6.2,82,2,Cloudy
+1362,6.6,77,2,Cloudy
+1363,7,94,1,Rain
+1364,6,89,4,Cloudy
+1365,6.3,89,4,Rain
+1366,6.9,86,3,Rain
+1367,7.7,77,2,Rain
+1368,8.1,85,2,Partly Cloudy
+1369,12.3,94,2,Cloudy
+1370,4.5,85,3,Cloudy
+1371,6,75,4,Cloudy
+1372,5.9,89,1,Cloudy
+1373,7.4,53,3,Cloudy
+1374,6.7,58,4,Cloudy
+1375,7.5,52,1,Cloudy
+1376,5.8,86,5,Rain
+1377,6.2,88,4,Rain
+1378,8.8,66,3,Rain
+1379,9.2,92,2,Cloudy
+1380,20.8,47,6,Partly Cloudy
+1381,15,68,4,Strong Wind
+1382,0.2,81,1,Clear
+1383,5.5,97,1,Partly Cloudy
+1384,18,60,4,Partly Cloudy
+1385,18,37,1,Clear
+1386,8.7,84,3,Cloudy
+1387,8.9,92,3,Cloudy
+1388,8.4,81,2,Partly Cloudy
+1389,12.5,68,5,Strong Wind
+1390,9.2,75,2,Cloudy
+1391,9.3,62,2,Cloudy
+1392,8.4,76,4,Cloudy
+1393,8.9,92,3,Rain
+1394,17.3,54,6,Strong Wind
+1395,4.2,88,3,Cloudy
+1396,7.3,90,3,Cloudy
+1397,7.2,93,2,Cloudy
+1398,1.9,69,4,Strong Wind
+1399,1.3,81,4,Snow
+1400,0.8,80,1,Cloudy
+1401,0.3,79,1,Cloudy
+1402,7.3,40,3,Partly Cloudy
+1403,6.2,58,2,Cloudy
+1404,0.7,93,2,Mist
+1405,5.4,83,2,Rain
+1406,2.6,96,1,Cloudy
+1407,0.5,98,1,Snow
+1408,0.2,95,1,Cloudy
+1409,1.2,76,2,Snow
+1410,0.9,96,3,Snow
+1411,-1.7,92,2,Cloudy
+1412,-3.4,81,1,Partly Cloudy
+1413,2,67,4,Cloudy
+1414,0.8,88,1,Cloudy
+1415,10.6,58,4,Partly Cloudy
+1416,6.8,46,1,Clear
+1417,-4.7,96,1,Clear
+1418,5.5,40,2,Partly Cloudy
+1419,-0.4,76,2,Partly Cloudy
+1420,7.1,81,2,Cloudy
+1421,2.4,82,2,Cloudy
+1422,0.8,96,1,Mist
+1423,-1.6,94,2,Mist
+1424,2.1,91,2,Clear
+1425,2.3,88,2,Cloudy
+1426,2,89,2,Cloudy
+1427,2.5,89,3,Mist
+1428,13.5,51,2,Partly Cloudy
+1429,5.1,96,3,Rain
+1430,6.2,95,4,Rain
+1431,7.2,91,4,Cloudy
+1432,9.2,78,7,Strong Wind
+1433,8.1,86,6,Cloudy
+1434,6.4,95,1,Rain
+1435,6.4,93,4,Rain
+1436,8.5,83,2,Cloudy
+1437,7.5,91,3,Rain
+1438,6.9,79,7,Strong Wind
