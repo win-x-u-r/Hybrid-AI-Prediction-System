@@ -7,7 +7,7 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from matplotlib import pyplot as plt
 
 # === Load and preprocess data ===
-data = pd.read_csv('cleaned_weather.csv')
+data = pd.read_csv('csai350-project/cleaned_weather.csv')
 data.dropna(inplace=True)
 data['weather_label'] = data['weather_label'].str.strip().str.title()
 
